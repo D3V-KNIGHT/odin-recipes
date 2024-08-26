@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  background-color: rgb(198, 198, 198);
+  border-color: black;
+}
+
+h1 {
+  color: rgb(30, 107, 188);
+  text-align: center;
+}
+
+a {
+  color: rgb(241, 9, 9);
+  display: block;
+  margin-bottom: 10px;
+  text-align: center;
+  text-decoration: none;
+}
+
+li {
+  width: 400px;
+  height: 20px;
+  margin: 10px 244px;
+  list-style-type: none;
+}
+
+.sushi {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  background-color: rgb(244, 240, 8);
+  text-align: center;
+}
+
+.steak {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: bisque;
+}
+
+.pizza {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  background-color: blueviolet;
+}
